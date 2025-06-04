@@ -1,0 +1,33 @@
+.review-page {
+  text-align: center;
+}
+
+.review-heading {
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+.review-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.review-card {
+  flex: 1 1 45%;
+  max-width: 600px;
+}
+
+.review-image {
+  width: 100%;
+  height: 800px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.review-text {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #333;
+}

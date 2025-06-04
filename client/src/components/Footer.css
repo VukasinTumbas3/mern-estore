@@ -1,0 +1,13 @@
+/* components/Footer.css */
+.footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #eee;
+  margin-top: 40px;
+}
+
+.footer button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
