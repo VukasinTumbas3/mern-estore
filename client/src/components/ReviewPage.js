@@ -12,9 +12,7 @@ const ReviewPage = () => {
             alt="Happy Customer 1"
             className="review-image"
           />
-          <p className="review-text">
-            "Wallah jag e nöjd! Snabb leverans också."
-          </p>
+          <p className="review-text">"Nöjd wallah! Snabb leverans också."</p>
         </div>
         <div className="review-card">
           <img

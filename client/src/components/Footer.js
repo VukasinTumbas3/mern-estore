@@ -10,6 +10,7 @@ const Footer = () => {
       <button onClick={() => navigate("/reviews")}>
         Read Customer Reviews
       </button>
+      <p className="ownership">Made by Vukejso 🥷🏻</p>
     </footer>
   );
 };

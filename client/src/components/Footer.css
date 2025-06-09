@@ -1,13 +1,26 @@
-/* components/Footer.css */
 .footer {
-  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   padding: 20px;
-  background-color: #eee;
+  background-color: #333333;
   margin-top: 40px;
+  border-top: 1px solid black;
 }
 
 .footer button {
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
+  background: black;
+}
+
+.footer button:hover {
+  background: red;
+  color: black;
+}
+
+.ownership {
+  text-align: right;
+  font-size: 20px;
 }

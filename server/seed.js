@@ -9,35 +9,55 @@ const products = [
     name: "Nike Air Max",
     description: "Soft like clouds",
     price: 120,
-    imageUrl: "https://m.media-amazon.com/images/I/31x0LrJ16JL._AC_.jpg",
+    imageUrl: "https://mthorshop.com/cdn/shop/files/5_77.png?v=1715337048",
   },
   {
     name: "OG Kush",
     description: "For the chiller",
     price: 20,
     imageUrl:
-      "https://slapsta.com/cdn/shop/products/og-kush-mylar-pouches-pre-labeled-739221.jpg?v=1642875115",
+      "https://highsocietypackaging.com/wp-content/uploads/2020/12/OG-KUSH.png",
   },
   {
     name: "Knife",
     description: "Better safe then sorry",
     price: 70,
-    imageUrl:
-      "https://cdn.abicart.com/shop/ws89/60789/art89/h9200/154959200-origpic-041a5a.jpg?max-width=1440&max-height=1440&quality=70&fmt=webp",
+    imageUrl: "https://pngimg.com/uploads/knife/knife_PNG106131.png",
   },
   {
     name: "Colombian Flour",
     description: "Great for baking",
     price: 100,
     imageUrl:
-      "https://www.drakfrukt.se/wp-content/uploads/2022/07/Majsmjol1kg.jpg",
+      "https://cdn.webshopapp.com/shops/225503/files/468342598/300x300x1/pan-pan-harina-pan-white-corn-flour-1kg.jpg",
   },
   {
     name: "Grey goose",
     description: "When we mourning",
     price: 180,
     imageUrl:
-      "https://www.dryckeslaget.com/tuotekuvat/1200x1200/Grey_Goose_Vodka_40_070_l.jpg",
+      "https://www.colonialspirits.com/wp-content/uploads/2021/04/Grey-Goose-1.75L.png",
+  },
+  {
+    name: "Peugeot 206",
+    description: "Need for speed",
+    price: 500,
+    imageUrl:
+      "https://letsgotomontenegro.com/wp-content/uploads/2016/08/Peugeot-206-1-900x600.png",
+  },
+  {
+    name: "Big 19",
+    description: "For tricky situations",
+    price: 300,
+    imageUrl:
+      "https://upload.wikimedia.org/wikipedia/commons/6/6f/Glock_19_Generation_4-removebg.png",
+  },
+  {
+    name: "Balaclava",
+    description: "Stay hidden",
+    price: 30,
+    imageUrl:
+      "https://ecdn.speedsize.com/96646a73-11d1-4ec5-a14d-66bc51e8738d/https://stellar.centracdn.net/client/dynamic/images/487_00484bf1f0-201black-01-u-free-balaclava-full_nobg.jpg",
   },
 ];
 
